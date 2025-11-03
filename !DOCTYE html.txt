@@ -1,0 +1,30 @@
+<!DOCTYE html>
+<html>
+<head>
+<title>complete Form</title>
+</head>
+<body>
+<h1>Registration Form</h1>
+<form action=" ">
+<p>
+ <lable> Enter your email id:
+ <input type = "text" name = "my name"size ="24" max length = "25"/>
+ </label>
+</p>
+<p>
+ <label>Enter the password"name ="my name" size = "20"maxlength = "20"/>
+</label>
+</p>
+<p>sex</p>
+<p>
+ <label><input type="
+
+
+
+
+
+
+
+
+
+
